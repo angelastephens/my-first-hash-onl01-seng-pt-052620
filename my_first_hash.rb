@@ -1,5 +1,5 @@
 def my_hash()
-  your_hash={"fruit"=>"pear","snack"=>"chips"}
+  {"fruit"=>"pear","snack"=>"chips"}
 end
 
 
