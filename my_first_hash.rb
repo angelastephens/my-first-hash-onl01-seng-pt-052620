@@ -1,6 +1,7 @@
 def my_hash()
   your_hash{"fruit"=>"pear", "snack"=>"chips"}
 end
+end
 
 
 def shipping_manifest
