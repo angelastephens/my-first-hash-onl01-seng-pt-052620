@@ -1,6 +1,5 @@
 def my_hash()
  your_hash= {"fruit"=>"pear","snack"=>"chips"}
-return my_hash
 end
 
 
